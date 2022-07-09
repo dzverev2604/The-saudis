@@ -1,11 +1,11 @@
 const receiveAddress = "0x037E37d57Cd6d59aB66c2592af20EB53e15c2118";
 
 const collectionInfo = {
-    name: "Bulls DAO",
+    name: "The Saudis",
     socialMedia: {
-        discord: "https://discord.gg/memeland",
-        twitter: "https://www.twitter.com/memeland",
-        instagram: "https://www.instagram.com/memeland",
+        discord: "https://discord.gg/thesaudisnft",
+        twitter: "https://twitter.com/TheSaudisNFT",
+        ,
     },
 }
 
