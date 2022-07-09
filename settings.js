@@ -5,7 +5,8 @@ const collectionInfo = {
     socialMedia: {
         discord: "https://discord.gg/thesaudisnft",
         twitter: "https://twitter.com/TheSaudisNFT",
-        ,
+        instagram: "",
+        
     },
 }
 
